@@ -1,0 +1,10 @@
+Folders/Files:
+    - src - Custom Classes
+        - Curl.php - Perform curl request
+        - AbstractComplexType.php - Class that will be inherited by all the others in the folder ComplexType
+        - ComplexType - Custom classes to build the requests.
+    - vendor - Autoload files
+    - wsdl - Web services provided by UPS
+    - config.php - Configurations file
+    - get.php - file that receives the parameters.
+ 
